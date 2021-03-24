@@ -10,7 +10,7 @@ paginate = 5
   contentTypeName = "content/posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -47,8 +47,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "waifus.me"
+    subtitle = "github pages deployment by jmir"
     owner = ""
     keywords = ""
     copyright = ""
@@ -61,7 +61,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "waifus.me"
       logoHomeLink = "/"
 
     [languages.en.menu]
