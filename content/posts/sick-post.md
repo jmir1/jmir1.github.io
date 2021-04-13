@@ -6,7 +6,7 @@ authorTwitter = "miramon_joel" #do not include @
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
-description = ""
+description = "probably the best one yet"
 showFullContent = false
 +++
 is this a blog now?  
