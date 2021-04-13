@@ -3,9 +3,9 @@ title = "another banger by me"
 date = "2021-04-14T01:37:00+02:00"
 author = "jmir"
 authorTwitter = "miramon_joel" #do not include @
-cover = "cool beans"
-tags = ["", ""]
-keywords = ["", ""]
+cover = ""
+tags = ["poggers", "cool"]
+keywords = ["sick", "awesome"]
 description = "probably the best one yet"
 showFullContent = false
 +++
