@@ -5,7 +5,22 @@ tomorrow is friday though so i still have to sleep now.</description><content>&l
 there&amp;rsquo;s no point cause no one knows about this or reads this, but whatever.&lt;br>
 i listened to reol, imperial circus dead decadence, cö shu nie and some other stuff spotify autoplayed, was fun.&lt;br>
 tomorrow is friday though so i still have to sleep now.&lt;br>
-bye.&lt;/p></content></item><item><title>another banger by me</title><link>https://waifus.me/posts/sick-post/</link><pubDate>Wed, 14 Apr 2021 01:37:00 +0200</pubDate><guid>https://waifus.me/posts/sick-post/</guid><description>is this a blog now?
+bye.&lt;/p></content></item><item><title>i think i made a mistake</title><link>https://waifus.me/posts/apps-are-hard/</link><pubDate>Fri, 16 Apr 2021 05:45:00 +0200</pubDate><guid>https://waifus.me/posts/apps-are-hard/</guid><description>so a few days ago i had the brilliant idea of making a fork of tachiyomi (a superb app for reading manga and comics etc.) and add anime/video watching capability to it.
+so i started by copying and rewriting a buch of classes for the new anime functionality (this is also my first time using kotlin so that&amp;rsquo;s cool)
+after many many hours i finally got it to compile and not crash instantly when opening the app!</description><content>&lt;p>so a few days ago i had the brilliant idea of making a fork of &lt;a href="https://github.com/tachiyomiorg/tachiyomi">tachiyomi&lt;/a> (a superb app for reading manga and comics etc.)
+and add anime/video watching capability to it.&lt;br>
+so i started by copying and rewriting a buch of classes for the new anime functionality (this is also my first time using kotlin so that&amp;rsquo;s cool)&lt;br>
+after many many hours i finally got it to compile and not crash instantly when opening the app! wow! sadly, pretty much nothing is implemented yet,
+i only added a new tab at the bottom that doesn&amp;rsquo;t do anything yet.&lt;br>
+the best thing about tachiyomi are the source extensions though. you can download extensions for the app that are basically webscrapers of manga websites.
+those let you download and read what you want, from literally hundreds of websites to choose from!&lt;br>
+so the next step was (i think) to make a new extension for an anime site (i am using my own (&lt;a href="2dgirls.tech">2dgirls.tech&lt;/a>) because it just works and is the simplest website ever.&lt;br>
+i had to rewrite some stuff in the github action scripts (and i learned how to sign an apk!) and now i have my own repo of tachiyomi extensions!&lt;br>
+sadly, the app has a lot of bugs and my extension isn&amp;rsquo;t displayed in the extension download section ;(&lt;br>
+so that&amp;rsquo;s basically where i&amp;rsquo;m at right now. what&amp;rsquo;s left is to fix the current bugs and implement a video player, then rewrite the tracking functions (anilist etc.)&lt;br>
+this leaves me thinking if i&amp;rsquo;m in a bit over my head&amp;hellip;&lt;br>
+nevertheless, if i finish this or not, it will have been a good learning experience, as i&amp;rsquo;ve never developed an android app before!&lt;br>
+that&amp;rsquo;s all, good night!&lt;/p></content></item><item><title>another banger by me</title><link>https://waifus.me/posts/sick-post/</link><pubDate>Wed, 14 Apr 2021 01:37:00 +0200</pubDate><guid>https://waifus.me/posts/sick-post/</guid><description>is this a blog now?
 anyway, right now i have nothing better to do, so i&amp;rsquo;m sharing this with you: a banger about love and maths?
 i should probably go to bed now, bye</description><content>&lt;p>is this a blog now?&lt;br>
 anyway, right now i have nothing better to do, so i&amp;rsquo;m sharing this with you: &lt;a href="https://www.youtube.com/watch?v=yoHR8qwuqmY">a banger about love and maths?&lt;/a>&lt;br>
