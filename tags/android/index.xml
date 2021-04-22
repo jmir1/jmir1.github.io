@@ -7,10 +7,11 @@ after many many hours i finally got it to compile and not crash instantly when o
 i only added a new tab at the bottom that doesn&amp;rsquo;t do anything yet.&lt;br>
 the best thing about tachiyomi are the source extensions though. you can download extensions for the app that are basically webscrapers of manga websites.
 those let you download and read what you want, from literally hundreds of websites to choose from!&lt;br>
-so the next step was (i think) to make a new extension for an anime site (i am using my own (&lt;a href="2dgirls.tech">2dgirls.tech&lt;/a>) because it just works and is the simplest website ever.&lt;br>
+so the next step was (i think) to make a new extension for an anime site (i am using my own (&lt;a href="https://2dgirls.tech">2dgirls.tech&lt;/a>) because it just works and is the simplest website ever.&lt;br>
 i had to rewrite some stuff in the github action scripts (and i learned how to sign an apk!) and now i have my own repo of tachiyomi extensions!&lt;br>
 sadly, the app has a lot of bugs and my extension isn&amp;rsquo;t displayed in the extension download section ;(&lt;br>
 so that&amp;rsquo;s basically where i&amp;rsquo;m at right now. what&amp;rsquo;s left is to fix the current bugs and implement a video player, then rewrite the tracking functions (anilist etc.)&lt;br>
 this leaves me thinking if i&amp;rsquo;m in a bit over my head&amp;hellip;&lt;br>
 nevertheless, if i finish this or not, it will have been a good learning experience, as i&amp;rsquo;ve never developed an android app before!&lt;br>
-that&amp;rsquo;s all, good night!&lt;/p></content></item></channel></rss>
+that&amp;rsquo;s all, good night!&lt;br>
+the stuff i&amp;rsquo;m talking about is at &lt;a href="https://github.com/jmir1/tachiyomi">github.com/jmir1/tachiyomi&lt;/a> and &lt;a href="https://github.com/jmir1/tachiyomi-extensions">github.com/jmir1/tachiyomi-extensions&lt;/a>&lt;/p></content></item></channel></rss>
