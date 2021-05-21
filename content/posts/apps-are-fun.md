@@ -18,4 +18,4 @@ i gave my fork the name "Tachiyomi-MI" (tachi yomi = standing reading; mi = watc
 another thing: i was very thankful that one other person i know on discord helped out a lot with providing input and pointing out bugs etc.  
 it really made the process more enjoyable, knowing that another person is interested and benefits from the work i put into this.  
 if you, the reader are interested as well, follow the links below :D  
-the stuff i'm talking about is at [github.com/jmir1/tachiyomi-mi](https://github.com/jmir1/tachiyomi) (download from [github.com/jmir1/tachiyomi-mi-preview/releases](https://github.com/jmir1/tachiyomi-mi-preview/releases))
+the stuff i'm talking about is at [github.com/jmir1/tachiyomi-mi](https://github.com/jmir1/tachiyomi-mi) (download from [github.com/jmir1/tachiyomi-mi-preview/releases](https://github.com/jmir1/tachiyomi-mi-preview/releases))
