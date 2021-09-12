@@ -1,6 +1,6 @@
 +++
 title = "another post by me"
-date = "2021-05-22T00:25:00+02:00"
+date = "2021-09-12T03:16:00+02:00"
 author = "jmir"
 authorTwitter = "miramon_joel" #do not include @
 cover = ""
